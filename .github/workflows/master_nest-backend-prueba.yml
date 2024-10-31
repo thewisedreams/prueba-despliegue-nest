@@ -67,5 +67,5 @@ jobs:
         with:
           app-name: 'Nest-Backend-Prueba'
           slot-name: 'Production'
-          package: .
+          package: ./dist
           
